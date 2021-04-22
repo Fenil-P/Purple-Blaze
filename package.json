@@ -1,0 +1,22 @@
+{
+    "name": "purple-blaze",
+    "displayName": "Purple Blaze",
+    "description": "Dark Purple Theme",
+    "version": "0.0.4",
+    "publisher": "FenixDragon",
+    "engines": {
+        "vscode": "^1.55.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Purple Blaze",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Purple Blaze-color-theme.json"
+            }
+        ]
+    }
+}
