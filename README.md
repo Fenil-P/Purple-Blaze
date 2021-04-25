@@ -1,6 +1,6 @@
 # README
 ## Preview
-![Alt text](/screenshot.png?raw=true "Screenshot")
+![Alt text](https://github.com/Fenil-P/Purple-Blaze/blob/master/screenshot.png?raw=true "Screenshot")
 
 Seek the Power of Friendship? 
 

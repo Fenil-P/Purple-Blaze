@@ -2,7 +2,7 @@
     "name": "purple-blaze",
     "displayName": "Purple Blaze",
     "description": "Dark Purple Theme",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "publisher": "FenixDragon",
     "engines": {
         "vscode": "^1.55.0"
